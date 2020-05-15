@@ -1,0 +1,9 @@
+C:\Users\Hafiz Caniago\Documents\Visual Studio 2015\Projects\SecurityApps\Folder Lock\Folder Lock\bin\Debug\Folder Lock.exe.config
+C:\Users\Hafiz Caniago\Documents\Visual Studio 2015\Projects\SecurityApps\Folder Lock\Folder Lock\bin\Debug\Folder Lock.exe
+C:\Users\Hafiz Caniago\Documents\Visual Studio 2015\Projects\SecurityApps\Folder Lock\Folder Lock\bin\Debug\Folder Lock.pdb
+C:\Users\Hafiz Caniago\Documents\Visual Studio 2015\Projects\SecurityApps\Folder Lock\Folder Lock\obj\Debug\Folder Lock.csprojResolveAssemblyReference.cache
+C:\Users\Hafiz Caniago\Documents\Visual Studio 2015\Projects\SecurityApps\Folder Lock\Folder Lock\obj\Debug\Folder_Lock.lockFolder.resources
+C:\Users\Hafiz Caniago\Documents\Visual Studio 2015\Projects\SecurityApps\Folder Lock\Folder Lock\obj\Debug\Folder_Lock.Properties.Resources.resources
+C:\Users\Hafiz Caniago\Documents\Visual Studio 2015\Projects\SecurityApps\Folder Lock\Folder Lock\obj\Debug\Folder Lock.csproj.GenerateResource.Cache
+C:\Users\Hafiz Caniago\Documents\Visual Studio 2015\Projects\SecurityApps\Folder Lock\Folder Lock\obj\Debug\Folder Lock.exe
+C:\Users\Hafiz Caniago\Documents\Visual Studio 2015\Projects\SecurityApps\Folder Lock\Folder Lock\obj\Debug\Folder Lock.pdb
